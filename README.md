@@ -1,5 +1,5 @@
 # MaaXBoard-HUB
-![Title](https://github.com/Avnet/MaaXBoard-HUB/assets/88205887/3f4c4d19-b7d9-4991-8aae-bd9100a837e2)
+![Title](https://github.com/Avnet/MaaXBoard-HUB/assets/88205887/9e382786-3ac3-4b9f-acf2-fc61217ed5d7)
 
 Welcome to the information hub for MaaXBoard, featuring the [NXP i.MX 8M](https://www.nxp.com/products/processors-and-microcontrollers/arm-processors/i-mx-applications-processors/i-mx-8-applications-processors/i-mx-8m-family-armcortex-a53-cortex-m4-audio-voice-video:i.MX8M) applications processor based on Arm® Cortex®-A53 and Cortex-M4 cores provide advanced audio, voice and video processing for applications that scale from consumer home audio to industrial building automation and mobile computers. This repository serves as a central hub for all resources related to MaaXBoard. <br />
 
@@ -35,7 +35,7 @@ Welcome to the information hub for MaaXBoard, featuring the [NXP i.MX 8M](https:
 MaaXBoard is a low-cost, production ready development board in the popular and compact Raspberry Pi form-factor, which supports a versatile set of I/O interfaces. This [NXP i.MX 8M](https://www.nxp.com/products/processors-and-microcontrollers/arm-processors/i-mx-applications-processors/i-mx-8-applications-processors/i-mx-8m-family-armcortex-a53-cortex-m4-audio-voice-video:i.MX8M) processor-based platform contains everything necessary to support and create a Linux, Android, Windows 10 IoT Core, or other OS based system. MaaXBoard provides industry-leading audio, voice, and video processing for applications that scale from consumer home audio to industrial building automation and embedded computers.<br />
 <p align="center">
     MaaXBoard is also AWS certified.<br />
-    <img src="https://github.com/Avnet/MaaXBoard-HUB/assets/88205887/6d043334-183d-4f79-a8f8-e6214778eb92">
+    <img src="https://github.com/Avnet/MaaXBoard-HUB/assets/88205887/59600e3f-2054-4e85-ba79-83fa284c9524">
 <br />
 <details>
     <summary>More information & Specs</summary>
@@ -46,7 +46,7 @@ The i.MX 8M device is architected with 2 separate processing domains: The applic
 
 ### Form Factor & Interfaces
 <p align="center">
-    <img src="https://github.com/Avnet/MaaXBoard-HUB/assets/88205887/e0aaaa1f-f415-42d0-ba01-51400da6e6e2" width="500">
+    <img src="https://github.com/Avnet/MaaXBoard-HUB/assets/88205887/3efc52eb-a8ab-4a51-b89b-989c3efdb40c" width="500">
 </p>
 MaaXBoard is engineered in compact Raspberry Pi form-factor, which supports a versatile set of I/O interfaces. These include Gigabit Ethernet, two USB 3.0 host interfaces, MIPI DSI display and MIPI CSI camera interfaces, HDMI display supporting up to 4k resolution, Wi-Fi 802.11 b/g/n/ac, Bluetooth 4.2 (BLE), Onboard Ceramic Antenna with an optional external antenna support, a Pi-HAT compatible 40-pin header and Audio Expansion.
 
