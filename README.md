@@ -52,7 +52,7 @@ The i.MX 8M device is architected with 2 separate processing domains: The applic
 </p>
 MaaXBoard is engineered in compact Raspberry Pi form-factor, which supports a versatile set of I/O interfaces. These include Gigabit Ethernet, two USB 3.0 host interfaces, MIPI DSI display and MIPI CSI camera interfaces, HDMI display supporting up to 4k resolution, Wi-Fi 802.11 b/g/n/ac, Bluetooth 4.2 (BLE), Onboard Ceramic Antenna with an optional external antenna support, a Pi-HAT compatible 40-pin header and Audio Expansion.
 
-Power is sourced via a USB-C connector and is managed via NXP's PCA9460B PMIC on the SOM plus three additional voltage regulators.
+Power is sourced via a USB-C connector and is managed via onboard voltage regulators.
 
 ### Memory & Storage
 
