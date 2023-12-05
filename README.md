@@ -1,6 +1,6 @@
 # MaaXBoard-HUB
 <p align="center">
-    <img src="https://github.com/Avnet/MaaXBoard-HUB/assets/88205887/9e382786-3ac3-4b9f-acf2-fc61217ed5d7">
+    <img src="https://github.com/Avnet/MaaXBoard-HUB/assets/88205887/e8e4d67e-a449-475f-97e9-38ac3074d966">
 </p>
 
 Welcome to the information hub for MaaXBoard, featuring the [NXP i.MX 8M](https://www.nxp.com/products/processors-and-microcontrollers/arm-processors/i-mx-applications-processors/i-mx-8-applications-processors/i-mx-8m-family-armcortex-a53-cortex-m4-audio-voice-video:i.MX8M) applications processor based on Arm® Cortex®-A53 and Cortex-M4 cores provide advanced audio, voice and video processing for applications that scale from consumer home audio to industrial building automation and mobile computers. This repository serves as a central hub for all resources related to MaaXBoard. <br />
